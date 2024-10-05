@@ -1,4 +1,4 @@
-function()
+tab.newButton("Kardin shader", "kardin famous doors hacker lolcat friend shader script", function()
 local Bloom = Instance.new("BloomEffect", game.Lighting)
 Bloom.Intensity = 0.12
 Bloom.Size = 9e9
